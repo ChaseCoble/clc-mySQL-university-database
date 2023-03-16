@@ -1,0 +1,1 @@
+This is a collection of sql scripts to form a database for managing the curriculum of students at a fictional university. It includes scripts for querying the average grade by professor, grouping students by course and top grades by student. 
